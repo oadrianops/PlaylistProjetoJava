@@ -1,7 +1,7 @@
 # Documentação do Projeto: Sistema de Playlist de Músicas
 
 ## 1. Tema do Projeto
-
+- **Estrutura de Dados e POO**:
 O projeto consiste no desenvolvimento de um protótipo de um sistema de gerenciamento de playlists de músicas, utilizando a linguagem Java. O foco é aplicar conceitos de programação orientada a objetos e o uso de estruturas de dados estáticas, como vetores, para organizar as informações.
 
 ## 2. Objetivo
@@ -74,11 +74,6 @@ O fluxo de execução no `AppPlaylist.java` demonstra os seguintes cenários:
     ```
 
 ## 6. Organização do Projeto no Git
-
-Para um desenvolvimento colaborativo e organizado, sugere-se a seguinte abordagem com o Git:
-
-- **Responsável pelo Repositório**: Um integrante do grupo deve ser o "dono" do repositório no GitHub (ou outra plataforma). Ele será responsável por criar o repositório, proteger a branch principal (`main` ou `master`) e revisar/aprovar os *Pull Requests* dos outros membros.
-
 - **Estrutura de Pastas**:
   ```
   /               # Raiz do projeto
