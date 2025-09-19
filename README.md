@@ -87,8 +87,6 @@ Para um desenvolvimento colaborativo e organizado, sugere-se a seguinte abordage
   |   |-- Musica.java
   |   |-- Playlist.java
   |   `-- Usuario.java
-  |-- docs/       # Pasta para a documentação
-  |   `-- documentacao.md
   `-- .gitignore  # Arquivo para ignorar arquivos do Git (ex: *.class, /bin)
   ```
 
