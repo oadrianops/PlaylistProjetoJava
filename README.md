@@ -89,9 +89,3 @@ Para um desenvolvimento colaborativo e organizado, sugere-se a seguinte abordage
   |   `-- Usuario.java
   `-- .gitignore  # Arquivo para ignorar arquivos do Git (ex: *.class, /bin)
   ```
-
-- **Fluxo de Trabalho (Branches)**:
-  1.  Cada integrante cria uma *branch* a partir da `main` para desenvolver uma funcionalidade específica (ex: `feat/cria-classe-musica`).
-  2.  Após concluir o desenvolvimento, o integrante envia a *branch* para o repositório remoto.
-  3.  Abre um *Pull Request* (PR) para mesclar suas alterações na `main`.
-  4.  O responsável pelo repositório revisa o código e, se estiver tudo certo, aprova e mescla o PR.
